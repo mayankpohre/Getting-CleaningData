@@ -1,9 +1,9 @@
 ## Code Book
  
- ### Initial Data
+ ## Initial Data
  For the data used in this project, see the README.txt found in http://archive.ics.uci.edu/ml/datasets/HumanActivityRecognitionUsingSmartphones.  
  
- ### Data Wrangling
+ ## Data Wrangling
  The data provided in this original project are tidied into a principal research dataset of interest here, contained in the data frame "activity.frame", in the run_analysis.R script provided here.
  
  The "activity.frame" data frame is produced by performing the following transformations:
@@ -13,7 +13,7 @@
  2. Add subject ids (numbers 1-30) to the single data frame.
  3. Add activities, by name, to the single data frame.
  
- ### Clean Data Columns
+ ## Clean Data Columns
  
  The resulting data frame has 81 columns:
 
@@ -101,5 +101,5 @@
  81 fBodyBodyGyroJerkMag-meanFreq()
  </pre>
  
- ### Computed result
+ ## Computed result
  The result, produced in the frame "result.frame" and written to the file "mean_measures.txt", contains every uniquely occuring combination of subject id and activity (columns 1 and 2), together with the mean of each other measure for that group (columns 3 through 81).
