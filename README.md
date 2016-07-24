@@ -2,7 +2,7 @@
 # Getting and Cleaning Data, Peer Assessment Project
   
  -Peer Assessment Project for Coursera Course: Getting and Cleaning Data
- ## <u>How To Complete this task </u>
+## <u>How To Complete this task </u>
 To repeat the work done in this project:
 
 * 1. Download source data from http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
