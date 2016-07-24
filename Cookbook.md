@@ -17,6 +17,7 @@
  
  The resulting data frame has 81 columns:
 
+<pre>
  1 subject.id : The subject ID, an integer in the range 1:30
  2 activity : The activity performed by the subject
  3 tBodyAcc-mean()-X
