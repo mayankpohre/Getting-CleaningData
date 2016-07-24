@@ -101,5 +101,5 @@
  81 fBodyBodyGyroJerkMag-meanFreq()
  </pre>
  
- ## Computed result
+## Computed result
  The result, produced in the frame "result.frame" and written to the file "mean_measures.txt", contains every uniquely occuring combination of subject id and activity (columns 1 and 2), together with the mean of each other measure for that group (columns 3 through 81).
